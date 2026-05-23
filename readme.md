@@ -97,7 +97,7 @@ weather-app/
 ## 👨‍💻 Author
 
 **Your Name**  
-GitHub: [@YOUR_USERNAME](https://github.com/rajamanraj0000-pixel/weather-app.git)
+GitHub: [@rajamanraj0000-pixel](https://github.com/rajamanraj0000-pixel/weather-app.git)
 
 ---
 
