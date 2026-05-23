@@ -20,7 +20,8 @@ A beautiful weather application with animated backgrounds that change based on r
 
 ## 🖼️ Screenshots
 
-> Add your screenshots here after deployment
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/ad961e8e-ac86-4371-8649-d20af5d32e8a" />
+
 
 ---
 
